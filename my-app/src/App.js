@@ -13,6 +13,11 @@ function App() {
       <p>
         Editing  <code>src/app.js</code> and sve to reload
       </p>
+      <aside>
+        <p>
+          sidebar content
+        </p>
+      </aside>
       <footer>
         <p>
           app footer
